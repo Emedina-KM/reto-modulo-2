@@ -1,0 +1,5 @@
+requests
+python-dotenv
+prefect
+mysql-connector-python
+tabulate
